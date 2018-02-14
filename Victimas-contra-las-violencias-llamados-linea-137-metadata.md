@@ -27,23 +27,21 @@ Características
 Recursos disponibles
 --------------------
 
-### Victimas contra las violencias llamados línea 137 – aaaa-mm
+### Victimas contra las violencias llamados línea 137 – AAAA-MM
 
--   **Nombre del archivo:** victimas-contra-las-violencias-llamados-linea-137 -aaaa-mm.csv
+-   **Nombre del archivo:** victimas-contra-las-violencias-llamados-linea-137 -AAAA-MM.csv
 
 -   **Descripción del contenido:** detalle de los llamados atendidos por las profesionales de la Línea 137 sobre casos de Violencia Familiar o Sexual. Cada fila en este archivo representa un llamado, ya que en el llamado se identifica una única víctima y un único agresor/a. Cuando se realizan las intervenciones
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-<!-- -->
-
 -   **Rango temporal:** llamados recibidos desde enero de 2017 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **llamante\_tipo (string):** indica quién realiza el llamado. Puede indicar personas (víctima, vecino) o instituciones (policía, hospital).
+-   **llamante_tipo (string):** indica quién realiza el llamado. Puede indicar personas (víctima, vecino) o instituciones (policía, hospital).
 
--   **llamante\_genero (string):** género de quien realiza el llamado. Puede tomar los valores:
+-   **llamante_genero (string):** género de quien realiza el llamado. Puede tomar los valores:
 
     -   Masculino
 
@@ -53,7 +51,7 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
--   **llamante\_rango\_etario (string):** rango etario del llamante. Puede tomar los valores:
+-   **llamante_rango_etario (string):** rango etario del llamante. Puede tomar los valores:
 
     -   1 a 5 años
 
@@ -73,9 +71,9 @@ Recursos disponibles
 
     -   Sin datos
 
--   **violencia\_tipo (string):** refiere a los tipos de violencia que se ejerce sobre la víctima
+-   **violencia_tipo (string):** refiere a los tipos de violencia que se ejerce sobre la víctima
 
--   **victima\_rango\_etario (string):** rango etario de la víctima. Puede tomar los valores:
+-   **victima_rango_etario (string):** rango etario de la víctima. Puede tomar los valores:
 
     -   1 a 5 años
 
@@ -95,7 +93,7 @@ Recursos disponibles
 
     -   Sin datos
 
--   **victima\_genero (string):** género de la víctima. Puede tomar los valores:
+-   **victima_genero (string):** género de la víctima. Puede tomar los valores:
 
     -   Masculino
 
@@ -105,9 +103,9 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
--   **agresor\_cantidad (entero):** número de agresores involucrados en el caso
+-   **agresor_cantidad (entero):** número de agresores involucrados en el caso
 
--   **agresor\_genero (string):** género del agresor. Puede tomar los valores:
+-   **agresor_genero (string):** género del agresor. Puede tomar los valores:
 
     -   Masculino
 
@@ -117,11 +115,11 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
--   **agresor\_relacion\_victima (string):** relación entre el agresor y la víctima, identificada en el llamado.
+-   **agresor_relacion_victima (string):** relación entre el agresor y la víctima, identificada en el llamado.
 
--   **llamado\_fecha (date):** fecha en que se atendió el llamado. Formato AAAA-MM-DD,
+-   **llamado_fecha (date):** fecha en que se atendió el llamado. Formato AAAA-MM-DD.
 
--   **llamado\_provincia (string):** provincia desde la cual entró el llamado a la línea 137. Aclaración: durante 2017 sólo funcionó para la Ciudad Autónoma de Buenos Aires.
+-   **llamado_provincia (string):** provincia desde la cual entró el llamado a la línea 137. Aclaración: durante 2017 sólo funcionó para la Ciudad Autónoma de Buenos Aires.
 
 Notas: 
 -------
