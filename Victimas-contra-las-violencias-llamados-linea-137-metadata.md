@@ -22,7 +22,7 @@ Características
 
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
--   **Grupo:** Acceso a Justicia
+-   **Grupo:** Acceso a Justicia, Género
 
 -   **Frecuencia de Actualización:** Trimestralmente
 
