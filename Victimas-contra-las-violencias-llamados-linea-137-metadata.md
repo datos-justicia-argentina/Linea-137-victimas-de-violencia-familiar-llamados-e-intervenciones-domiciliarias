@@ -105,6 +105,8 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
+-   **victima_cantidad (entero):** número de víctimas involucradas en el caso
+
 -   **agresor_cantidad (entero):** número de agresores involucrados en el caso
 
 -   **agresor_genero (string):** género del agresor. Puede tomar los valores:
@@ -119,7 +121,9 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** relación entre el agresor y la víctima, identificada en el llamado.
 
--   **llamado_fecha (date):** fecha en que se atendió el llamado. Formato AAAA-MM-DD.
+-   **llamado_derivacion (string):** curso del llamado evaluado por los/as profesionales que atendieron el caso.
+
+-   **llamado_fecha_hora (date):** fecha y hora en que se atendió el llamado. Formato AAAA-MM-DD HH:MM:SS.
 
 -   **llamado_provincia (string):** provincia desde la cual entró el llamado a la línea 137. Aclaración: durante 2017 sólo funcionó para la Ciudad Autónoma de Buenos Aires.
 
