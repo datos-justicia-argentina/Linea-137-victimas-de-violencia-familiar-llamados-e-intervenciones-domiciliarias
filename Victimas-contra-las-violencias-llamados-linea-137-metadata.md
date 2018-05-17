@@ -12,7 +12,7 @@ http://datos.jus.gob.ar/dataset/victimas-contra-las-violencias-llamados-linea-13
 Características
 ---------------
 
--   **Fecha de Primera** **Publicación:** dd/mm/aaaa
+-   **Fecha de Primera** **Publicación:** 14/02/2018
 
 -   **Tags o Etiquetas:** violencias, violencia familiar, violencia sexual, brigada móvil, línea 137, víctimas, género
 
@@ -24,7 +24,7 @@ Características
 
 -   **Grupo:** Acceso a Justicia, Género
 
--   **Frecuencia de Actualización:** Trimestralmente
+-   **Frecuencia de Actualización:** Mensualmente
 
 Recursos disponibles
 --------------------
