@@ -29,7 +29,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Victimas contra las violencias llamados línea 137 – AAAA-MM
+### Víctimas contra las violencias llamados línea 137 – AAAA-MM
 
 -   **Nombre del archivo:** victimas-contra-las-violencias-llamados-linea-137-AAAA-MM.csv
 
@@ -127,7 +127,7 @@ Recursos disponibles
 
 -   **llamado_provincia (string):** provincia desde la cual entró el llamado a la línea 137. Aclaración: durante 2017 sólo funcionó para la Ciudad Autónoma de Buenos Aires.
 
-### Victimas contra las violencias llamados línea 137 – AAAA
+### Víctimas contra las violencias llamados línea 137 – AAAA
 
 -   **Nombre del archivo:** victimas-contra-las-violencias-llamados-linea-137-AAAA.zip
 
