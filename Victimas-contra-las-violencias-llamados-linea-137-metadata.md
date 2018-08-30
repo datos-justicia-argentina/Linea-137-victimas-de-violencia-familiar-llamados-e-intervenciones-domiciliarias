@@ -1,7 +1,7 @@
 Víctimas contra las violencias llamados línea 137
 -------------------------------------------------
 
-Este conjunto de datos contiene las llamadas atendidas por las profesionales del Programa las Víctimas contra las Violencias, de la Línea 137, sobre casos de Violencia Familiar y Sexual.
+Este conjunto de datos contiene las llamadas atendidas por las profesionales del Programa las Víctimas contra las Violencias, de la Línea 137, sobre casos de Violencia Familiar y los acompañamientos en terreno de las víctimas de violencia familiar en CABA.
 
 El Programa Las Víctimas Contra Las Violencias cuenta con un Centro de Llamadas que recibe el pedido de auxilio que realizan las víctimas de violencia familiar y sexual o personas de su entorno, las 24 horas los 365 días del año, tras el cual se da intervención a los equipos interdisciplinarios especializados en orientarlas, atenderlas y acompañarlas, en el ámbito de la CABA y en las provincias donde se replica el mismo.
 
@@ -29,11 +29,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Víctimas contra las violencias llamados línea 137 – AAAA-MM
+### Llamados atendidos sobre violencia familiar – AAAA-MM
 
--   **Nombre del archivo:** victimas-contra-las-violencias-llamados-linea-137-AAAA-MM.csv
+-   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-MM.csv
 
--   **Descripción del contenido:** detalle de los llamados atendidos por las profesionales de la Línea 137 sobre casos de Violencia Familiar o Sexual. Cada fila en este archivo representa un llamado, ya que en el llamado se identifica una única víctima y un único agresor/a. AAAA-MM identifica al período de recepción de los llamados.
+-   **Descripción del contenido:** detalle de los llamados atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar o Sexual. Cada fila en este archivo representa un llamado, ya que en el llamado se identifica una única víctima y un único agresor/a. AAAA-MM identifica al período de recepción de los llamados.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -41,9 +41,11 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **llamante_tipo (string):** indica quién realiza el llamado. Puede indicar personas (víctima, vecino) o instituciones (policía, hospital).
+-   **id\_caso (int):** código que permite identificar el caso
 
--   **llamante_genero (string):** género de quien realiza el llamado. Puede tomar los valores:
+-   **llamante\_quien\_llama (string):** describe quién realiza el llamado. Puede indicar personas o instituciones
+
+-   **llamante\_genero (string):** describe el género de la persona que realiza el llamado. Puede tomar los valores:
 
     -   Masculino
 
@@ -53,7 +55,39 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
--   **llamante_rango_etario (string):** rango etario del llamante. Puede tomar los valores:
+<!-- -->
+
+-   **llamante\_vinculo\_ninios\_presentes\_hecho (string):** describe el vínculo que tiene la persona que realiza el llamado con niños/as presentes en el hecho
+
+<!-- -->
+
+-   **violencia\_tipo (string): describe el tipo de violencia que se denuncia. Puede tomar los valores:**
+
+    -   Económica
+
+    -   Económica y física
+
+    -   Explotación comercial laboral
+
+    -   Física
+
+    -   No es un caso de Violencia Familiar
+
+    -   Psicológica
+
+    -   Sexual
+
+    -   Sexual y económica
+
+    -   Sin datos
+
+    -   Otras
+
+-   **victima\_edad (string):** describe la edad de la víctima principal del caso
+
+<!-- -->
+
+-   **victima\_rango\_etario (string):** describe el rango etario de la víctima. Puede tomar los valores:
 
     -   1 a 5 años
 
@@ -73,70 +107,120 @@ Recursos disponibles
 
     -   Sin datos
 
--   **violencia_tipo (string):** refiere a los tipos de violencia que se ejerce sobre la víctima
+-   **victima\_genero (string):** describe el género de la víctima. Puede tomar los valores:
 
--   **victima_rango_etario (string):** rango etario de la víctima. Puede tomar los valores:
+    -   Masculino
 
-    -   1 a 5 años
+    -   Femenino
 
-    -   6 a 11 años
+    -   Trans
 
-    -   12 a 17 años
+    -   Ns/Nc: no sabe / no contesta
 
-    -   18 a 29 años
+-   **victima\_cantidad (int):** describe el número de víctimas involucradas en el caso
 
-    -   30 a 39 años
+-   **agresor\_cantidad (int):** describe el número de agresores involucrados en el caso
 
-    -   40 a 49 años
+-   **agresor\_genero (string):** describe el género del agresor. Puede tomar los valores:
 
-    -   50 a 59 años
+    -   Masculino
 
-    -   más de 60 años
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+<!-- -->
+
+-   **agresor\_relacion\_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+
+<!-- -->
+
+-   **llamado\_derivacion (string):**  acciones que se realizaron en el centro de llamados de la línea 137
+
+-   **llamado\_fecha\_hora (date):** fecha y hora en la que se realiza el llamado
+
+-   **llamado\_provincia (string):** provincia desde la que se realiza el llamado
+
+### Intervenciones domiciliarias - violencia familiar – AAAA-MM
+
+-   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-MM.csv
+
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias realizadas por los profesionales del Programa Victimas Contra Las Violencias sobre casos de Violencia Familiar.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** intervenciones domiciliarias desde enero de 2018 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **id\_registro\_caso (int):** código con el que se registró el caso
+
+-   **intervencion\_fecha\_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
+
+<!-- -->
+
+-   **victima\_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
+
+-   **victima\_edad (int):** describe la edad de la víctima involucrada en el caso
+
+<!-- -->
+
+-   **victima\_genero (string):** describe el género de la víctima involucrada en el caso. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+<!-- -->
+
+-   **victima\_nacionalidad (string):** describe la nacionalidad de la víctima involucrada en el caso
+
+<!-- -->
+
+-   **victima\_discapacidad (string):** describe si la víctima involucrada en el caso posee algún tipo de discapacidad. Puede tomar los valores:
+
+    -   Sí
+
+    -   No
+
+    -   Ns/Nc: no sabe / no contesta
+
+    <!-- -->
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **violencia\_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
+
+    -   Económica
+
+    -   Económica y física
+
+    -   Explotación comercial laboral
+
+    -   Física
+
+    -   No es un caso de Violencia Familiar
+
+    -   Psicológica
+
+    -   Sexual
+
+    -   Sexual y económica
 
     -   Sin datos
 
--   **victima_genero (string):** género de la víctima. Puede tomar los valores:
+    -   Otras
 
-    -   Masculino
+-   **agresor\_relacion\_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-    -   Femenino
-
-    -   Trans
-
-    -   Ns/Nc: no sabe / no contesta
-
--   **victima_cantidad (entero):** número de víctimas involucradas en el caso
-
--   **agresor_cantidad (entero):** número de agresores involucrados en el caso
-
--   **agresor_genero (string):** género del agresor. Puede tomar los valores:
-
-    -   Masculino
-
-    -   Femenino
-
-    -   Trans
-
-    -   Ns/Nc: no sabe / no contesta
-
--   **agresor_relacion_victima (string):** relación entre el agresor y la víctima, identificada en el llamado.
-
--   **llamado_derivacion (string):** curso del llamado evaluado por los/as profesionales que atendieron el caso.
-
--   **llamado_fecha_hora (date):** fecha y hora en que se atendió el llamado. Formato AAAA-MM-DD HH:MM:SS.
-
--   **llamado_provincia (string):** provincia desde la cual entró el llamado a la línea 137. Aclaración: durante 2017 sólo funcionó para la Ciudad Autónoma de Buenos Aires.
-
-### Víctimas contra las violencias llamados línea 137 – AAAA
-
--   **Nombre del archivo:** victimas-contra-las-violencias-llamados-linea-137-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
-
--   **Formato:** ZIP
-
-Notas: 
--------
+Notas:
+------
 
 Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
 
