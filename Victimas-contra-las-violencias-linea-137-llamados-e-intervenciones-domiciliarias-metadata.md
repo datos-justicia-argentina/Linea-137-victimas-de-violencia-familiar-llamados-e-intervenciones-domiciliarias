@@ -143,6 +143,8 @@ Recursos disponibles
 
 -   **llamado\_provincia (string):** provincia desde la que se realiza el llamado
 
+-   **llamado_provincia_indec_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC
+
 ### Intervenciones domiciliarias - violencia familiar – AAAA-MM
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-MM.csv
