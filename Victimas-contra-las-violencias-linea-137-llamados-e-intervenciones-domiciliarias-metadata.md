@@ -224,6 +224,8 @@ Recursos disponibles
 Notas:
 ------
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
 
 La Línea 137 es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es Sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
