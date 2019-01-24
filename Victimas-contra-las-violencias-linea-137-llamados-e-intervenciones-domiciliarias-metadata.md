@@ -221,6 +221,22 @@ Recursos disponibles
 
 -   **agresor\_relacion\_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
+### Llamados atendidos sobre violencia familiar - AAAA
+
+-   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
+### Intervenciones domiciliarias - violencia familiar - AAAA
+
+-   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 Notas:
 ------
 
