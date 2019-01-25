@@ -41,11 +41,11 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **id\_caso (int):** código que permite identificar el caso
+-   **id_caso (int):** código que permite identificar el caso
 
--   **llamante\_quien\_llama (string):** describe quién realiza el llamado. Puede indicar personas o instituciones
+-   **llamante_descipcion (string):** describe quién realiza el llamado. Puede indicar personas o instituciones
 
--   **llamante\_genero (string):** describe el género de la persona que realiza el llamado. Puede tomar los valores:
+-   **llamante_genero (string):** describe el género de la persona que realiza el llamado. Puede tomar los valores:
 
     -   Masculino
 
@@ -55,13 +55,9 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
-<!-- -->
+-   **llamante_vinculo_ninios_presentes (string):** describe el vínculo que tiene la persona que realiza el llamado con niños/as presentes en el hecho
 
--   **llamante\_vinculo\_ninios\_presentes\_hecho (string):** describe el vínculo que tiene la persona que realiza el llamado con niños/as presentes en el hecho
-
-<!-- -->
-
--   **violencia\_tipo (string): describe el tipo de violencia que se denuncia. Puede tomar los valores:**
+-   **violencia_tipo (string): describe el tipo de violencia que se denuncia. Puede tomar los valores:**
 
     -   Económica
 
@@ -83,11 +79,9 @@ Recursos disponibles
 
     -   Otras
 
--   **victima\_edad (string):** describe la edad de la víctima principal del caso
+-   **victima_edad (int):** describe la edad de la víctima principal del caso
 
-<!-- -->
-
--   **victima\_rango\_etario (string):** describe el rango etario de la víctima. Puede tomar los valores:
+-   **victima_rango_etario (string):** describe el rango etario de la víctima. Puede tomar los valores:
 
     -   1 a 5 años
 
@@ -107,7 +101,7 @@ Recursos disponibles
 
     -   Sin datos
 
--   **victima\_genero (string):** describe el género de la víctima. Puede tomar los valores:
+-   **victima_genero (string):** describe el género de la víctima. Puede tomar los valores:
 
     -   Masculino
 
@@ -117,11 +111,11 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
--   **victima\_cantidad (int):** describe el número de víctimas involucradas en el caso
+-   **victima_cantidad (int):** describe el número de víctimas involucradas en el caso
 
--   **agresor\_cantidad (int):** describe el número de agresores involucrados en el caso
+-   **agresor_cantidad (int):** describe el número de agresores involucrados en el caso
 
--   **agresor\_genero (string):** describe el género del agresor. Puede tomar los valores:
+-   **agresor_genero (string):** describe el género del agresor. Puede tomar los valores:
 
     -   Masculino
 
@@ -131,17 +125,13 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
-<!-- -->
+-   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
--   **agresor\_relacion\_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+-   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la línea 137
 
-<!-- -->
+-   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
 
--   **llamado\_derivacion (string):**  acciones que se realizaron en el centro de llamados de la línea 137
-
--   **llamado\_fecha\_hora (date):** fecha y hora en la que se realiza el llamado
-
--   **llamado\_provincia (string):** provincia desde la que se realiza el llamado
+-   **llamado_provincia (string):** provincia desde la que se realiza el llamado
 
 -   **llamado_provincia_indec_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC
 
@@ -157,19 +147,15 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **id\_registro\_caso (int):** código con el que se registró el caso
+-   **id_registro_caso (int):** código con el que se registró el caso
 
--   **intervencion\_fecha\_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
+-   **intervencion_fecha_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
 
-<!-- -->
+-   **victima_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
 
--   **victima\_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
+-   **victima_edad (int):** describe la edad de la víctima involucrada en el caso
 
--   **victima\_edad (int):** describe la edad de la víctima involucrada en el caso
-
-<!-- -->
-
--   **victima\_genero (string):** describe el género de la víctima involucrada en el caso. Puede tomar los valores:
+-   **victima_genero (string):** describe el género de la víctima involucrada en el caso. Puede tomar los valores:
 
     -   Masculino
 
@@ -179,13 +165,9 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
-<!-- -->
+-   **victima_nacionalidad (string):** describe la nacionalidad de la víctima involucrada en el caso
 
--   **victima\_nacionalidad (string):** describe la nacionalidad de la víctima involucrada en el caso
-
-<!-- -->
-
--   **victima\_discapacidad (string):** describe si la víctima involucrada en el caso posee algún tipo de discapacidad. Puede tomar los valores:
+-   **victima_discapacidad (string):** describe si la víctima involucrada en el caso posee algún tipo de discapacidad. Puede tomar los valores:
 
     -   Sí
 
@@ -193,11 +175,9 @@ Recursos disponibles
 
     -   Ns/Nc: no sabe / no contesta
 
-    <!-- -->
-
     -   Ns/Nc: no sabe / no contesta
 
--   **violencia\_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
+-   **violencia_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
 
     -   Económica
 
@@ -219,7 +199,7 @@ Recursos disponibles
 
     -   Otras
 
--   **agresor\_relacion\_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+-   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
 ### Llamados atendidos sobre violencia familiar - AAAA
 
