@@ -57,7 +57,7 @@ Recursos disponibles
 
 -   **llamante_vinculo_ninios_presentes (string):** describe el vínculo que tiene la persona que realiza el llamado con niños/as presentes en el hecho
 
--   **violencia_tipo (string): describe el tipo de violencia que se denuncia. Puede tomar los valores:**
+-   **violencia_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
 
     -   Económica
 
