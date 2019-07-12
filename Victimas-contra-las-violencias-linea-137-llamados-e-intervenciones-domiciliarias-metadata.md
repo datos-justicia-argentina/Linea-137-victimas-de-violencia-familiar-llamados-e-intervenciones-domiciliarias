@@ -29,7 +29,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Llamados atendidos sobre violencia familiar – AAAA trimestre 9
+### Llamados atendidos sobre violencia familiar - AAAA trimestre 9
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
 
@@ -135,7 +135,7 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias - violencia familiar – AAAA trimestre 9
+### Intervenciones domiciliarias - violencia familiar - AAAA trimestre 9
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
 
