@@ -41,7 +41,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **id_caso (int):** código que permite identificar el caso
+-   **caso_id (int):** código que permite identificar el caso
 
 -   **llamante_descipcion (string):** describe quién realiza el llamado. Puede indicar personas o instituciones
 
