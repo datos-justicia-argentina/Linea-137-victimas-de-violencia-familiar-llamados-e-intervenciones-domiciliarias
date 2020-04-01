@@ -14,7 +14,7 @@ Características
 
 -   **Fecha de Primera** **Publicación:** 14/02/2018
 
--   **Tags o Etiquetas:** violencias, violencia familiar, violencia sexual, brigada móvil, línea 137, víctimas, género
+-   **Tags o Etiquetas:** violencias, violencia familiar, violencia sexual, brigada móvil, 137, víctimas, género
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
@@ -205,7 +205,7 @@ Recursos disponibles
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+-   **Descripción del contenido:** ete recurso contiene los llamados atendidos por las profesionales de la Línea 137 sobre casos de Violencia Familiar recibidos en el año AAAA, organizados en archivos mensuales/trimestrales. Cada fila en estos archivos identifica un llamado y una víctima principal.
 
 -   **Formato:** ZIP
 
@@ -213,7 +213,8 @@ Recursos disponibles
 
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+-   **Descripción del contenido:** este recurso contiene las intervenciones domiciliarias por casos de violencia familiar efectuados a partir de llamados a la línea 137 en el año AAAA, organizadas en archivos trimestrales. La unidad de análisis de estos archivos son las víctimas.
+
 
 -   **Formato:** ZIP
 
