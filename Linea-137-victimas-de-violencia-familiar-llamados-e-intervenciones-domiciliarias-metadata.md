@@ -1,7 +1,7 @@
 Línea 137 - víctimas de violencia familiar - llamados e intervenciones domiciliarias
 ------------------------------------------------------------------------------------
 
-Este conjunto de datos contiene las llamadas atendidas por los profesionales especializados del Programa las Víctimas contra las Violencias en la Línea Nacional 137, que se ocupan de escuchar, contener, orientar y, en los casos que suceda un episodio de violencia familiar o sexual al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima en CABA, en Chaco (Resistencia) y Misiones (Posadas, Oberá, Eldorado). Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
+Este conjunto de datos contiene las llamadas atendidas por las/los profesionales especializados del Programa las Víctimas contra las Violencias en la Línea Nacional 137, que se ocupan de escuchar, contener, orientar y, en los casos que suceda un episodio de violencia familiar o sexual al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima en CABA, en Chaco (Resistencia) y Misiones (Posadas, Oberá, Eldorado). Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
 
 http://datos.jus.gob.ar/dataset/linea-137-victimas-de-violencia-familiar
 
@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -201,7 +201,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -373,7 +373,7 @@ Recursos disponibles
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar en el año AAAA. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea 137 sobre casos de Violencia Familiar en el año AAAA. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** ZIP
 
@@ -390,9 +390,9 @@ Notas:
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
+Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las/los profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
 
-La Línea 137 es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es Sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
+La Línea 137 es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
 
 Desde el Programa no se reciben denuncias sino que se trata de una instancia previa, en la que se interviene ya sea en el sitio donde están teniendo lugar las violencias o mediante la atención telefónica por parte de profesionales especializados en las temáticas abordadas. Si la víctima lo desea, entre otras acciones que se realizan en las intervenciones “en terreno”, se la acompaña a realizar la denuncia a los lugares pertinentes (según la denuncia sea civil, penal o ambas).
 
