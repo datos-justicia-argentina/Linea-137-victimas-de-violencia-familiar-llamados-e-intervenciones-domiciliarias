@@ -1,5 +1,5 @@
 Línea Nacional 137 - víctimas de violencia familiar - llamados e intervenciones domiciliarias
-------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 
 Este conjunto de datos contiene las llamadas atendidas por las/los profesionales especializados del Programa las Víctimas contra las Violencias en la Línea Nacional 137, que se ocupan de escuchar, contener, orientar y, en los casos que suceda un episodio de violencia familiar o sexual al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima en CABA, en Chaco (Resistencia) y Misiones (Posadas, Oberá, Eldorado). Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
 
