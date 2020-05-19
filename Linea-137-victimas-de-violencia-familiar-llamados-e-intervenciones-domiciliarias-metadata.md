@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Llamados atendidos sobre violencia familiar - Línea 137 - AAAAMM
+### Llamados atendidos sobre violencia familiar - línea 137 - AAAAMM
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
@@ -131,7 +131,7 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias por casos de violencia familiar - Línea 137- AAAAMM
+### Intervenciones domiciliarias por casos de violencia familiar - línea 137- AAAAMM
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAAMM.csv
 
@@ -197,7 +197,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA trimestre 9
+### Llamados atendidos sobre violencia familiar - línea 137 - AAAA trimestre 9
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
 
@@ -303,7 +303,7 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias por casos de violencia familiar - 137 - AAAA trimestre 9
+### Intervenciones domiciliarias por casos de violencia familiar - línea 137 - AAAA trimestre 9
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
 
@@ -369,7 +369,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA
+### Llamados atendidos sobre violencia familiar - línea 137 - AAAA
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
@@ -377,7 +377,7 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
-### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAA
+### Intervenciones domiciliarias por casos de violencia familiar - línea 137 - AAAA
 
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
