@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Llamados atendidos sobre violencia familiar - línea 137 - AAAAMM
+### Llamados atendidos sobre violencia familiar - Línea Nacional 137 - AAAAMM
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
@@ -131,7 +131,7 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias por casos de violencia familiar - línea 137- AAAAMM
+### Intervenciones domiciliarias por casos de violencia familiar - Línea Nacional 137 - AAAAMM
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAAMM.csv
 
@@ -197,7 +197,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - línea 137 - AAAA trimestre 9
+### Llamados atendidos sobre violencia familiar - Línea Nacional 137 - AAAA trimestre 9
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
 
@@ -303,7 +303,7 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias por casos de violencia familiar - línea 137 - AAAA trimestre 9
+### Intervenciones domiciliarias por casos de violencia familiar - Línea Nacional 137 - AAAA trimestre 9
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
 
@@ -369,7 +369,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - línea 137 - AAAA
+### Llamados atendidos sobre violencia familiar - Línea Nacional 137 - AAAA
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
@@ -377,7 +377,7 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
-### Intervenciones domiciliarias por casos de violencia familiar - línea 137 - AAAA
+### Intervenciones domiciliarias por casos de violencia familiar - Línea Nacional 137 - AAAA
 
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
@@ -392,11 +392,11 @@ Notas:
 
 Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las/los profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
 
-La Línea 137 es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
+La Línea Nacional 137 es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea Nacional 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
 
 Desde el Programa no se reciben denuncias sino que se trata de una instancia previa, en la que se interviene ya sea en el sitio donde están teniendo lugar las violencias o mediante la atención telefónica por parte de profesionales especializados en las temáticas abordadas. Si la víctima lo desea, entre otras acciones que se realizan en las intervenciones “en terreno”, se la acompaña a realizar la denuncia a los lugares pertinentes (según la denuncia sea civil, penal o ambas).
 
-**Seguimiento del caso:** el Equipo de Seguimiento refuerza el trabajo realizado por las/los profesionales en las intervenciones, así como aquellos llamados realizados a la línea 137 que no han generado desplazamientos de los equipos móviles. Colabora en el proceso de sostenimiento de las denuncias realizadas, complementa la labor de acompañamiento legal, y procura optimizar el acceso a los recursos interinstitucionales para las víctimas de violencia familiar, en los niveles de contención, asistencia, prevención y promoción de la problemática de la violencia.
+**Seguimiento del caso:** el Equipo de Seguimiento refuerza el trabajo realizado por las/los profesionales en las intervenciones, así como aquellos llamados realizados a la Línea Nacional 137 que no han generado desplazamientos de los equipos móviles. Colabora en el proceso de sostenimiento de las denuncias realizadas, complementa la labor de acompañamiento legal, y procura optimizar el acceso a los recursos interinstitucionales para las víctimas de violencia familiar, en los niveles de contención, asistencia, prevención y promoción de la problemática de la violencia.
 
 **Acompañamientos jurídicos:** consiste en el asesoramiento y abordaje legal, derechos que le asisten a la víctima, medidas de protección aplicables respecto del hecho de violencia acontecido. Se efectúan en todas las instancias que sean requeridos, según lo previsto en la normativa vigente, [Ley N°24.417 de Protección contra la Violencia Familiar](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/93554/norma.htm) y [Ley N° 26.485 de Protección Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/norma.htm), [Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer](http://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/36208/norma.htm) y demás normativa vigente.
 
