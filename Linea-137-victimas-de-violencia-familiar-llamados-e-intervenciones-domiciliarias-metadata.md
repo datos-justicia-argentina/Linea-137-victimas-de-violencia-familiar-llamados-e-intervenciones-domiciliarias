@@ -1,13 +1,9 @@
-Víctimas contra las violencias línea 137 - llamados e intervenciones domiciliarias
-----------------------------------------------------------------------------------
+Línea 137 - víctimas de violencia familiar - llamados e intervenciones domiciliarias
+------------------------------------------------------------------------------------
 
-Este conjunto de datos contiene las llamadas atendidas por las profesionales del Programa las Víctimas contra las Violencias, de la Línea 137, sobre casos de Violencia Familiar y los acompañamientos en terreno de las víctimas de violencia familiar en CABA.
+Este conjunto de datos contiene las llamadas atendidas por los profesionales especializados del Programa las Víctimas contra las Violencias en la Línea Nacional 137, que se ocupan de escuchar, contener, orientar y, en los casos que suceda un episodio de violencia familiar o sexual al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima en CABA, en Chaco (Resistencia) y Misiones (Posadas, Oberá, Eldorado). Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
 
-El Programa Las Víctimas Contra Las Violencias cuenta con un Centro de Llamadas que recibe el pedido de auxilio que realizan las víctimas de violencia familiar y sexual o personas de su entorno, las 24 horas los 365 días del año, tras el cual se da intervención a los equipos interdisciplinarios especializados en orientarlas, atenderlas y acompañarlas, en el ámbito de la CABA y en las provincias donde se replica el mismo.
-
-Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
-
-http://datos.jus.gob.ar/dataset/victimas-contra-las-violencias-llamados-linea-137
+http://datos.jus.gob.ar/dataset/linea-137-victimas-de-violencia-familiar
 
 Características
 ---------------
@@ -29,11 +25,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Llamados atendidos sobre violencia familiar - AAAA trimestre 9
+### Llamados atendidos sobre violencia familiar - Línea 137 - AAAAMM
 
--   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
+-   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de los llamados atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar o Sexual. Cada fila en este archivo representa un llamado, ya que en el llamado se identifica una única víctima y un único agresor/a. AAAA-trimestre-9 identifica al período de recepción de los llamados.Trimestre 9: Toma valores 1; 2; 3 y 4 (cada número hace referencia al trimestre del año indicado).
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -135,11 +131,11 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias - violencia familiar - AAAA trimestre 9
+### Intervenciones domiciliarias por casos de violencia familiar - Línea 137- AAAAMM
 
--   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
+-   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de las intervenciones domiciliarias realizadas por los profesionales del Programa Victimas Contra Las Violencias sobre casos de Violencia Familiar. Trimestre 9: Toma valores 1; 2; 3 y 4 (cada número hace referencia al trimestre del año indicado)
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la línea 137 en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -201,20 +197,191 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - AAAA
+### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA trimestre 9
+
+-   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
+
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** se cuenta con datos de llamados entre enero de 2017 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **caso_id (int):** código que permite identificar el caso
+
+-   **llamante_descipcion (string):** describe quién realiza el llamado. Puede indicar personas o instituciones
+
+-   **llamante_genero (string):** describe el género de la persona que realiza el llamado. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **llamante_vinculo_ninios_presentes (string):** describe el vínculo que tiene la persona que realiza el llamado con niños/as presentes en el hecho
+
+-   **violencia_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
+
+    -   Económica
+
+    -   Económica y física
+
+    -   Explotación comercial laboral
+
+    -   Física
+
+    -   No es un caso de Violencia Familiar
+
+    -   Psicológica
+
+    -   Sexual
+
+    -   Sexual y económica
+
+    -   Sin datos
+
+    -   Otras
+
+-   **victima_edad (int):** describe la edad de la víctima principal del caso
+
+-   **victima_rango_etario (string):** describe el rango etario de la víctima. Puede tomar los valores:
+
+    -   1 a 5 años
+
+    -   6 a 11 años
+
+    -   12 a 17 años
+
+    -   18 a 29 años
+
+    -   30 a 39 años
+
+    -   40 a 49 años
+
+    -   50 a 59 años
+
+    -   más de 60 años
+
+    -   Sin datos
+
+-   **victima_genero (string):** describe el género de la víctima. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **victima_cantidad (int):** describe el número de víctimas involucradas en el caso
+
+-   **agresor_cantidad (int):** describe el número de agresores involucrados en el caso
+
+-   **agresor_genero (string):** describe el género del agresor. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+
+-   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la línea 137
+
+-   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
+
+-   **llamado_provincia (string):** provincia desde la que se realiza el llamado
+
+-   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
+
+### Intervenciones domiciliarias por casos de violencia familiar - 137 - AAAA trimestre 9
+
+-   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
+
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la línea 137. La unidad de análisis de este recurso son las víctimas.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** intervenciones domiciliarias desde enero de 2018 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **caso_id (int):** código con el que se registró el caso
+
+-   **intervencion_fecha_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
+
+-   **victima_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
+
+-   **victima_edad (int):** describe la edad de la víctima involucrada en el caso
+
+-   **victima_genero (string):** describe el género de la víctima involucrada en el caso. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **victima_nacionalidad (string):** describe la nacionalidad de la víctima involucrada en el caso
+
+-   **victima_discapacidad (string):** describe si la víctima involucrada en el caso posee algún tipo de discapacidad. Puede tomar los valores:
+
+    -   Sí
+
+    -   No
+
+    -   Ns/Nc: no sabe / no contesta
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **violencia_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
+
+    -   Económica
+
+    -   Económica y física
+
+    -   Explotación comercial laboral
+
+    -   Física
+
+    -   No es un caso de Violencia Familiar
+
+    -   Psicológica
+
+    -   Sexual
+
+    -   Sexual y económica
+
+    -   Sin datos
+
+    -   Otras
+
+-   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+
+### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** ete recurso contiene los llamados atendidos por las profesionales de la Línea 137 sobre casos de Violencia Familiar recibidos en el año AAAA, organizados en archivos mensuales/trimestrales. Cada fila en estos archivos identifica un llamado y una víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por los profesionales de la Línea 137 sobre casos de Violencia Familiar en el año AAAA. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** ZIP
 
-### Intervenciones domiciliarias - violencia familiar - AAAA
+### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAA
 
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** este recurso contiene las intervenciones domiciliarias por casos de violencia familiar efectuados a partir de llamados a la línea 137 en el año AAAA, organizadas en archivos trimestrales. La unidad de análisis de estos archivos son las víctimas.
-
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la línea 137 en el año AAAA, en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
 
 -   **Formato:** ZIP
 
