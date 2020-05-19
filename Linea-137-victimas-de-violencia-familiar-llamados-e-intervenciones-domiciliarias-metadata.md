@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea Nacional 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -123,7 +123,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
--   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la línea 137
+-   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea Nacional 137
 
 -   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
 
@@ -135,7 +135,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la línea 137 en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea Nacional 137 en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -201,7 +201,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la ínea Nacional 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -295,7 +295,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
--   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la línea 137
+-   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea Nacional 137
 
 -   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
 
@@ -307,7 +307,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
 
--   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la línea 137. La unidad de análisis de este recurso son las víctimas.
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea Nacional 137. La unidad de análisis de este recurso son las víctimas.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -373,7 +373,7 @@ Recursos disponibles
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea 137 sobre casos de Violencia Familiar en el año AAAA. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
 
 -   **Formato:** ZIP
 
@@ -381,7 +381,7 @@ Recursos disponibles
 
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
--   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la línea 137 en el año AAAA, en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
 
 -   **Formato:** ZIP
 
