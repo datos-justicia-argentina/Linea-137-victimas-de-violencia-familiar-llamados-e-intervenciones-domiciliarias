@@ -1,7 +1,7 @@
-Línea Nacional 137 - víctimas de violencia familiar - llamados e intervenciones domiciliarias
+Línea 137 - víctimas de violencia familiar - llamados e intervenciones domiciliarias
 ----------------------------------------------------------------------------------------------
 
-Este conjunto de datos contiene los llamados atendidos por las/los profesionales especializados del Programa las Víctimas contra las Violencias en la Línea Nacional 137, que se ocupan de escuchar, contener, orientar y, en los casos que suceda un episodio de violencia familiar o sexual al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima en CABA, en Chaco (Resistencia) y Misiones (Posadas, Oberá, Eldorado). Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
+Este conjunto de datos contiene los llamados atendidos por las y los profesionales especializados del Programa las Víctimas contra las Violencias en la Línea 137, de alcance nacional, que se ocupan de escuchar, contener, orientar y, en los casos que suceda un episodio de violencia familiar o sexual al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima en CABA, en Chaco (Resistencia) y Misiones (Posadas, Oberá, Eldorado). Constituye una política pública efectiva para las víctimas de violencias y malos tratos propiciando el acceso a la justicia de las personas victimizadas.
 
 http://datos.jus.gob.ar/dataset/linea-137-victimas-de-violencia-familiar
 
@@ -25,11 +25,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Llamados atendidos sobre violencia familiar - Línea Nacional 137 - AAAAMM
+### Llamados atendidos sobre violencia familiar - Línea 137 - AAAAMM
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la Línea Nacional 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137, de alcance nacional, sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -123,7 +123,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
--   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea Nacional 137
+-   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea 137
 
 -   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
 
@@ -131,11 +131,11 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
-### Intervenciones domiciliarias por casos de violencia familiar - Línea Nacional 137 - AAAAMM
+### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAAMM
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea Nacional 137 en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea 137, de alcance nacional, en CABA. La unidad de análisis de este recurso son las víctimas (puede haber más de una víctima/fila por intervención).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -197,11 +197,11 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - Línea Nacional 137 - AAAA trimestre 9
+### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA trimestre 9
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAA-trimestre-9.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las/los profesionales de la ínea Nacional 137 sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137, de alcance nacional, sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -307,7 +307,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAA-trimestre-9.csv
 
--   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea Nacional 137. La unidad de análisis de este recurso son las víctimas.
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea 137, de alcance nacional. La unidad de análisis de este recurso son las víctimas.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -369,7 +369,7 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - Línea Nacional 137 - AAAA
+### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
 
@@ -377,7 +377,7 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
-### Intervenciones domiciliarias por casos de violencia familiar - Línea Nacional 137 - AAAA
+### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAA
 
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
@@ -390,9 +390,9 @@ Notas:
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las/los profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
+Las modalidades de implementación del Programa las Víctimas contra las Violencias se nutren de la experiencia de las y los profesionales en la escena de la violencia, acompañando a las víctimas, colaborando en su autovalimiento y en la restitución de los derechos vulnerados.
 
-La Línea Nacional 137 es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea Nacional 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
+La Línea 137, de alcance nacional, es atendida por un equipo profesional especializado, integrado por psicólogas/os y trabajadoras/es sociales, que se ocupa de escuchar, contener, orientar y, en los casos en los que se está desarrollando un episodio de violencia (familiar o sexual) al momento del llamado, decidir el desplazamiento de un equipo móvil al lugar donde se encuentra la víctima. Desde su creación, en octubre de 2006, a Diciembre de 2017, la Línea 137 recibió en CABA 129.980 llamados con pedidos de ayuda u orientación, acompañando a 29.962 víctimas de violencia familiar y a 11.688 víctimas de violencia sexual.
 
 Desde el Programa no se reciben denuncias sino que se trata de una instancia previa, en la que se interviene ya sea en el sitio donde están teniendo lugar las violencias o mediante la atención telefónica por parte de profesionales especializados en las temáticas abordadas. Si la víctima lo desea, entre otras acciones que se realizan en las intervenciones “en terreno”, se la acompaña a realizar la denuncia a los lugares pertinentes (según la denuncia sea civil, penal o ambas).
 
