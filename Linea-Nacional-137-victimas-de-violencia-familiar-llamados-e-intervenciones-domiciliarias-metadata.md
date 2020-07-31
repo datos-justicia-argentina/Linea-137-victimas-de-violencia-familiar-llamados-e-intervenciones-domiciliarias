@@ -20,7 +20,7 @@ Características
 
 -   **Grupo:** Acceso a Justicia, Género
 
--   **Frecuencia de Actualización:** Eventualmente
+-   **Frecuencia de Actualización:** Trimestralmete
 
 Recursos disponibles
 --------------------
