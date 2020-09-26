@@ -127,6 +127,106 @@ Recursos disponibles
 
 -   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
 
+### Llamados atendidos sobre violencia familiar - línea 137 - AAAA-AAAA - unificado
+
+-   **Nombre:** llamados-atendidos-violencia-familiar-unificado-AAAA-AAAA.csv
+
+-   **Descripción del contenido:** adetalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137 sobre casos de Violencia Familiar desde AAAA hasta AAAA organizados en un archivo unificado.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+### Campos del recurso
+
+-   **caso_id (int):** código que permite identificar el caso
+
+-   **llamante_descipcion (string):** describe quién realiza el llamado. Puede indicar personas o instituciones
+
+-   **llamante_genero (string):** describe el género de la persona que realiza el llamado. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **llamante_vinculo_ninios_presentes (string):** describe el vínculo que tiene la persona que realiza el llamado con niños/as presentes en el hecho
+
+-   **violencia_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
+
+    -   Económica y psicológica
+
+    -   Económica, física y psicológica
+
+    -   Física y psicológica
+
+    -   Física, sexual y psicológica
+
+    -   No aplica
+    
+    -   Psicológica
+
+    -   Sexual y psicológica
+
+    -   Sexual, económica y psicológica
+
+-   **victima_edad (int):** describe la edad de la víctima principal del caso
+
+-   **victima_rango_etario (string):** describe el rango etario de la víctima. Puede tomar los valores:
+
+    -   1 a 5 años
+
+    -   6 a 11 años
+
+    -   12 a 17 años
+
+    -   18 a 29 años
+
+    -   30 a 39 años
+
+    -   40 a 49 años
+
+    -   50 a 59 años
+
+    -   más de 60 años
+
+    -   Sin datos
+
+-   **victima_genero (string):** describe el género de la víctima. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **victima_cantidad (int):** describe el número de víctimas involucradas en el caso
+
+-   **agresor_cantidad (int):** describe el número de agresores involucrados en el caso
+
+-   **agresor_genero (string):** describe el género del agresor. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+
+-   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea 137
+
+-   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
+
+-   **llamado_provincia (string):** provincia desde la que se realiza el llamado
+
+-   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
+
 ### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAAMM
 
 -   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-AAAAMM.csv
@@ -202,14 +302,6 @@ Recursos disponibles
 -   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
 
 -   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
-
--   **Formato:** ZIP
-
-### Llamados atendidos sobre violencia familiar - línea 137 - AAAA-AAAA - unificado
-
--   **Nombre:** llamados-atendidos-violencia-familiar-unificado-AAAA-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido con los datos publicados en el portal datos.jus.gob.ar entre los años AAAA-AAAA organizados en un archivo unificado.
 
 -   **Formato:** ZIP
 
