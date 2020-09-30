@@ -131,7 +131,7 @@ Recursos disponibles
 
 -   **Nombre:** llamados-atendidos-violencia-familiar-unificado-AAAA-AAAA.csv
 
--   **Descripción del contenido:** adetalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137 sobre casos de Violencia Familiar desde AAAA hasta AAAA organizados en un archivo unificado.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137 sobre casos de Violencia Familiar desde AAAA hasta AAAA organizados en un archivo unificado.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
