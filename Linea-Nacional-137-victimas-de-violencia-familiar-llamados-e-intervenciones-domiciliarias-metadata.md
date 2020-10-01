@@ -299,7 +299,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea 137 dentre años
+-   **Rango temporal:** intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea 137 entre años
 
 ### Campos del recurso
 
