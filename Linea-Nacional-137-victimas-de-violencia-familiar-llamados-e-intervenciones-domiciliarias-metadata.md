@@ -135,6 +135,8 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
+-   **Rango temporal:** llamados de todo el país atendidos por las y los profesionales de la Línea 137 sobre casos de Violencia Familiar entre años
+
 ### Campos del recurso
 
 -   **caso_id (int):** código que permite identificar el caso
@@ -236,6 +238,68 @@ Recursos disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** intervenciones domiciliarias desde enero de 2018 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **caso_id (int):** código con el que se registró el caso
+
+-   **intervencion_fecha_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
+
+-   **victima_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
+
+-   **victima_edad (int):** describe la edad de la víctima involucrada en el caso
+
+-   **victima_genero (string):** describe el género de la víctima involucrada en el caso. Puede tomar los valores:
+
+    -   Masculino
+
+    -   Femenino
+
+    -   Trans
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **victima_nacionalidad (string):** describe la nacionalidad de la víctima involucrada en el caso
+
+-   **victima_discapacidad (string):** describe si la víctima involucrada en el caso posee algún tipo de discapacidad. Puede tomar los valores:
+
+    -   Sí
+
+    -   No
+
+    -   Ns/Nc: no sabe / no contesta
+
+    -   Ns/Nc: no sabe / no contesta
+
+-   **violencia_tipo (string):** describe el tipo de violencia que se denuncia. Puede tomar los valores:
+
+    -   Económica y psicológica
+
+    -   Económica, física y psicológica
+
+    -   Física y psicológica
+
+    -   Física, sexual y psicológica
+
+    -   No aplica
+    
+    -   Psicológica
+
+    -   Sexual y psicológica
+
+    -   Sexual, económica y psicológica
+
+-   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
+
+### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAA-AAAA - unificado
+
+-   **Nombre del archivo:** intervenciones-domiciliarias-violencia-familiar-unificado-AAAAA-AAAA.csv
+
+-   **Descripción del contenido:** detalle de las intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea 137 desde AAAA hasta AAAA organizados en un archivo unificado.
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** intervenciones domiciliarias por casos de violencia familiar efectuadas a partir de llamados a la Línea 137 dentre años
 
 ### Campos del recurso
 
