@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** llamados-atendidos-violencia-familiar-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137, de alcance nacional, sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado y su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137, de alcance nacional, sobre casos de Violencia Familiar. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado y su víctima principal. Corresponde al período comprendido entre enero y el mes del año indicado en el título.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -129,9 +129,9 @@ Recursos disponibles
 
 ### Llamados atendidos sobre violencia familiar - línea 137 - AAAA-AAAA - unificado
 
--   **Nombre:** llamados-atendidos-violencia-familiar-unificado-AAAA-AAAA.csv
+-   **Nombre:** llamados-atendidos-violencia-familiar-unificado-AAAAMM-AAAAMM.csv
 
--   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137, de alcance nacional, sobre casos de Violencia Familiar desde AAAA hasta AAAA organizados en un archivo unificado. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado y su víctima principal.
+-   **Descripción del contenido:** detalle de los llamados de todo el país atendidos por las y los profesionales de la Línea 137, de alcance nacional, sobre casos de Violencia Familiar entre los años y meses indicados en el título organizados en un único archivo. La unidad de análisis en este recurso es la víctima principal del caso. Cada fila identifica un llamado y su víctima principal.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -353,21 +353,14 @@ Recursos disponibles
 
 -   **agresor_relacion_victima (string):** describe el vínculo que existe entre el agresor y la víctima involucrada en el caso
 
-### Llamados atendidos sobre violencia familiar - Línea 137 - AAAA
+### Línea 137 - violencia familiar - llamados e intervenciones
 
--   **Nombre:** llamados-atendidos-violencia-familiar-AAAA.zip
+-   **Nombre:** linea-137-violencia-familiar-llamados-intervenciones.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
-
--   **Formato:** ZIP
-
-### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAA
-
--   **Nombre:** intervenciones-domiciliarias-violencia-familiar-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año.
+-   **Descripción del contenido:** archivo comprimido correspondiente a toda la información de llamados en intervenciones disponbie, organizado en archivos anuales.
 
 -   **Formato:** ZIP
+
 
 Notas:
 ------
