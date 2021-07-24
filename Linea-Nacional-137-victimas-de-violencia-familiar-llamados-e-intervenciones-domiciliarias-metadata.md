@@ -362,6 +362,12 @@ Recursos disponibles
 -   **Formato:** ZIP
 
 
+### Línea 137 - violencia familiar - Gráficos estadísticos
+
+-   **Descripción del contenido:** visualizaciones desarrolladas sobre los gráficos publicados
+
+-   **Formato:** Tableau
+
 Notas:
 ------
 
