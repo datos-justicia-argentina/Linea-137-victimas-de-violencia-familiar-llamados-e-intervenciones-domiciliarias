@@ -366,7 +366,7 @@ Recursos disponibles
 
 -   **Descripción del contenido:** visualizaciones desarrolladas sobre los gráficos publicados
 
--   **Formato:** Tableau
+-   **Formato:** Tableau Public
 
 Notas:
 ------
