@@ -247,7 +247,9 @@ Recursos disponibles
 
 -   **caso_id (int):** código con el que se registró el caso
 
--   **intervencion_fecha_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
+-   **intervencion_fecha (date):** fecha en la que se realiza la intervención en el lugar de los hechos
+
+-   **intervencion_hora (string):** hora en la que se realiza la intervención en el lugar de los hechos
 
 -   **victima_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
 
@@ -309,7 +311,9 @@ Recursos disponibles
 
 -   **caso_id (int):** código con el que se registró el caso
 
--   **intervencion_fecha_hora (date):** fecha y hora en la que se realiza la intervención en el lugar de los hechos
+-   **intervencion_fecha (date):** fecha en la que se realiza la intervención en el lugar de los hechos
+
+-   **intervencion_hora (string):** hora en la que se realiza la intervención en el lugar de los hechos
 
 -   **victima_embarazo (string):** describe si la víctima involucrada en el caso está embarazada: Toma los valores SI/NO
 
