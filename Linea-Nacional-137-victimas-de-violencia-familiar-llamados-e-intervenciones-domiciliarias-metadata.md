@@ -121,7 +121,9 @@ Recursos disponibles
 
 -   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea 137
 
--   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
+-   **llamado_fecha (date):** fecha en la que se realiza el llamado
+
+-   **llamado_hora (string):** hora en la que se realiza el llamado-   
 
 -   **llamado_provincia (string):** provincia desde la que se realiza el llamado
 
@@ -223,7 +225,9 @@ Recursos disponibles
 
 -   **llamado_derivacion (string):**  acciones que se realizaron en el centro de llamados de la Línea 137
 
--   **llamado_fecha_hora (date):** fecha y hora en la que se realiza el llamado
+-   **llamado_fecha (date):** fecha en la que se realiza el llamado
+
+-   **llamado_hora (string):** hora en la que se realiza el llamado-   
 
 -   **llamado_provincia (string):** provincia desde la que se realiza el llamado
 
