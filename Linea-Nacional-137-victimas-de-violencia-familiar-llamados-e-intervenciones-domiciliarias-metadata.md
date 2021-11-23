@@ -391,6 +391,6 @@ Desde el Programa no se reciben denuncias sino que se trata de una instancia pre
 
 **Acompañamientos jurídicos:** consiste en el asesoramiento y abordaje legal, derechos que le asisten a la víctima, medidas de protección aplicables respecto del hecho de violencia acontecido. Se efectúan en todas las instancias que sean requeridos, según lo previsto en la normativa vigente, [Ley N°24.417 de Protección contra la Violencia Familiar](http://servicios.infoleg.gob.ar/infolegInternet/anexos/90000-94999/93554/norma.htm) y [Ley N° 26.485 de Protección Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres](http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/norma.htm), [Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer](http://servicios.infoleg.gob.ar/infolegInternet/anexos/35000-39999/36208/norma.htm) y demás normativa vigente.
 
-    -   [Un análisis de los datos del Programa "Las Víctimas Contra Las Violencias" 2020-2021](http://datos.jus.gob.ar/varios/Victimas_Contra_Las_Violencias_2020-2021.pdf)
+**[Un análisis de los datos del Programa "Las Víctimas Contra Las Violencias" 2020-2021](http://datos.jus.gob.ar/varios/Victimas_Contra_Las_Violencias_2020-2021.pdf)
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 187 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-187-APN-MJ.pdf), del 9 de Marzo de 2018.
