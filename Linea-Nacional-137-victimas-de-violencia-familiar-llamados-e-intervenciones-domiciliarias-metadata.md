@@ -229,9 +229,15 @@ Recursos disponibles
 
 -   **llamado_hora (string):** hora en la que se realiza el llamado-   
 
--   **llamado_provincia (string):** provincia desde la que se realiza el llamado
+-   **llamado_region (string):** región desde la que se realiza el llamado a la Línea 137. Las regiones son
 
--   **llamado_provincia_id (string):** código de provincia desde la que se realiza el llamado, según la codificación de provincia implementada por INDEC (hasta 05/2019 nombre campo llamado_provincia_indec_id)
+        NOA: Tucumán, Salta, Jujuy, La Rioja, Catamarca, Santiago del Estero
+        NEA: Misiones, Corrientes, Formosa, Chaco
+        CUYO: Mendoza, San Juan, San Luis
+        PAMPEANA: Córdoba, Santa Fe, Entre Ríos, La Pampa
+        METROPOLITANA: Ciudad de Buenos Aires, Provincia de Buenos Aires
+        PATAGONIA: Tierra del Fuego, Santa Cruz, Chubut, Río Negro, Neuquén
+
 
 ### Intervenciones domiciliarias por casos de violencia familiar - Línea 137 - AAAAMM
 
