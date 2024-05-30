@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** violencias, violencia familiar, violencia sexual, brigada móvil, 137, víctimas, género
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
 -   **Grupo:** Acceso a Justicia, Género
 
@@ -404,4 +404,4 @@ Desde el Programa no se reciben denuncias sino que se trata de una instancia pre
 
 [Un análisis de los datos del Programa "Las Víctimas Contra Las Violencias" 2020-2021](http://datos.jus.gob.ar/varios/Victimas_Contra_Las_Violencias_2020-2021.pdf)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 187 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-187-APN-MJ.pdf), del 9 de Marzo de 2018.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 187 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2018-187-APN-MJ.pdf), del 9 de Marzo de 2018.
